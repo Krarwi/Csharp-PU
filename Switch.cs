@@ -11,7 +11,7 @@ namespace CSharp
         static void Main(string[] args)
         {
             int Grade = 4;
-            switch (grade)
+            switch (Grade)
             {
                 case 0: 
                     Console.WriteLine("Fail");
