@@ -1,0 +1,1 @@
+There was no attempt to get the input of the persons age at the beginning and the first line of if age was less than and not greater than, also you would need to specify within a range of numbers and not just greater then because otherwise it would count as everything being over 18 and display the message of that if.

@@ -1,0 +1,1 @@
+The array at the beginning is wrong, you forgot to put = new int[] in the middle. A foreach loop is much easier to grasp and edit and works in this case rather than a for loop and the sum of numbers is made better with the dollar sign syntax rather than putting plus at the end of the sentence bounds.
