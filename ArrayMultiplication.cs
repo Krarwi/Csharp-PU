@@ -15,10 +15,9 @@ namespace CSharp
 
             int[] intarray = new int[length];
 
-            for (int i = 0; i <= length; i++)
+            for (int i = 0; i < length; i++)
             {
-                intarray[i] = num * i;
-                i++;
+                intarray[i] = num * (i + 1);
             }
             Console.WriteLine($"Multiplication Table for {num}:");
 
